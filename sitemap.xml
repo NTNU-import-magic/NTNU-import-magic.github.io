@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/2020/11/11/Our%20First%20Hexo/</loc>
+    <loc>http://yoursite.com/2020/11/11/Our%20First%20Hexo/</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/archive/index.html</loc>
+    <loc>http://yoursite.com/archive/index.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/about/index.html</loc>
+    <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-11-18</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/404.html</loc>
+    <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2020-11-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/categories/index.html</loc>
+    <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2020-11-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/tags/index.html</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2020-11-10</lastmod>
     
@@ -45,7 +45,7 @@
   
 
   <url>
-    <loc>https://ntnu-import-magic.github.io/</loc>
+    <loc>http://yoursite.com/</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -53,7 +53,7 @@
 
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/tags/Hexo/</loc>
+    <loc>http://yoursite.com/tags/Hexo/</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -62,7 +62,7 @@
 
   
   <url>
-    <loc>https://ntnu-import-magic.github.io/categories/Blog/</loc>
+    <loc>http://yoursite.com/categories/Blog/</loc>
     <lastmod>2020-11-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
