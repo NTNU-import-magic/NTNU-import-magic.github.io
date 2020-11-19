@@ -4,7 +4,7 @@ catalog: true
 date: 2020-11-11 13:44:00
 # subtitle: A succinct hexo theme...
 # top: 999
-header-img: /img/header_img/newhome_bg.jpg
+header-img: /img/header_img/newhome_bg.webp
 tags:
 - Hexo
 categories:

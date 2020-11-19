@@ -3,7 +3,7 @@ layout: "about"
 title: "About"
 date: 2020-11-10 17:27:00
 description: "Programming for Fun ~ OwO"
-header-img: "img/scenery/2020ICPC.jpg"
+header-img: "img/scenery/2020ICPC.webp"
 ---
 
 ## Our members
