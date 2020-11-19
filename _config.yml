@@ -33,8 +33,8 @@ SEOTitle: NTNU_import_magic's_Programming_Life
 email: hexo-theme-index20010928@gmail.com
 description: "It's a programming life blog of a team..."
 keyword: "NTNU,NTNU_import_magic,import_magic,SubaRya,jw910731,adam,Blog"
-header-img: img/header_img/newhome_bg.jpg
-archives-img: img/header_img/archive_bg2.jpg
+header-img: img/header_img/newhome_bg.webp
+# archives-img: img/header_img/archive_bg2.jpg
 
 
 # Favicon settings
@@ -43,7 +43,7 @@ favicon: img/avatar/mascot.png
 
 # Signature Setup
 signature: false # show signature
-signature-img: img/signature/vincent-white.png
+# signature-img: img/signature/vincent-white.png
 
 
 # Wave settings
