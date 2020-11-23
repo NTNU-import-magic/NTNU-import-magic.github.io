@@ -1,7 +1,7 @@
 name: Build and Deploy
 on:
   push:
-    paths: ["soruce/**", ".github/workflows/deploy.yml", "_config.yml"]
+    paths: ["soruce/**", "themes/**", ".github/workflows/deploy.yml", "_config.yml"]
 jobs:
   deploy:
     runs-on: ubuntu-20.04
