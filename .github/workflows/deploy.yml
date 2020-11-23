@@ -14,6 +14,8 @@ jobs:
           path: '**/node_modules'
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
       - uses: borales/actions-yarn@v2.0.0
+        env:
+          NODE_ENV: production
         with:
           cmd: install
       - uses: borales/actions-yarn@v2.0.0
