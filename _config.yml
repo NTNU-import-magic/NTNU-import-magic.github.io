@@ -7,7 +7,7 @@ title: NTNU_import_magic
 subtitle: Our Team's CSIE Programming Life
 author: NTNU_import_magic's member
 language: zh-TW
-timezone:
+timezone: Asia/Taipei
 
 
 # URL
@@ -29,10 +29,10 @@ permalink_defaults:
 # Custom Setting Start
 
 # Site settings
-SEOTitle: NTNU_import_magic's_Programming_Life
-email: hexo-theme-index20010928@gmail.com
+SEOTitle: NTNU_import_magic's Programming Life | NTNU_import_magic 健康競程新生活
+#email: hexo-theme-index20010928@gmail.com
 description: "It's a programming life blog of a team..."
-keyword: "NTNU,NTNU_import_magic,import_magic,SubaRya,jw910731,adam,Blog"
+keyword: "NTNU,NTNU_import_magic,import_magic,SubaRya,jw910731,adam,Blog,Competitive Programming,競程,"
 header-img: img/header_img/newhome_bg.webp
 # archives-img: img/header_img/archive_bg2.jpg
 
@@ -297,7 +297,7 @@ gitter:
 # Deployment
 Docs: https://hexo.io/docs/deployment.html
 ##
-deploy:
-  type: git
-  repo: https://github.com/NTNU-import-magic/NTNU-import-magic.github.io.git
-  branch: gh-pages
+#deploy:
+#  type: git
+#  repo: https://github.com/NTNU-import-magic/NTNU-import-magic.github.io.git
+#  branch: gh-pages
