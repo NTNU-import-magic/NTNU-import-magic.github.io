@@ -9,20 +9,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/11/11/Our%20First%20Hexo/</loc>
-    
-    <lastmod>2020-11-23</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2020-11-23</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/archive/index.html</loc>
     
     <lastmod>2020-11-23</lastmod>
@@ -31,6 +17,20 @@
   
   <url>
     <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/11/11/Our%20First%20Hexo/</loc>
+    
+    <lastmod>2020-11-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2020-11-23</lastmod>
     
