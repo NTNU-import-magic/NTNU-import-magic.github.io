@@ -13,9 +13,6 @@ jobs:
         with:
           path: '**/node_modules'
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
       - uses: borales/actions-yarn@v2.0.0
         with:
           cmd: install
